@@ -1,4 +1,4 @@
 # Getting-Started-With-Android
 Getting Started With Android Development
 
-![Getting-Started-With-Android](Getting-Started-With-Android.png)
+<img src="Getting-Started-With-Android.png" alt="Getting-Started-With-Android" width="500"/>
